@@ -1,6 +1,8 @@
 Grove - Ear Clip Heart Rate Sensor
 ---------------------------------------------------------
 
+[![Grove - Ear Clip Heart Rate Sensor](http://www.seeedstudio.com/depot/images/product/P3212438.jpg)](http://www.seeedstudio.com/depot/grove-earclip-heart-rate-sensor-p-1116.html?cPath=25_29)
+
 This is an Arduino example for [Grove - Ear Clip Heart Rate Sensor](http://www.seeedstudio.com/depot/grove-earclip-heart-rate-sensor-p-1116.html?cPath=25_29)
 
 For more information, please refer to [wiki page](http://www.seeedstudio.com/wiki/Grove_-_Heart_rate_ear_clip_kit).
